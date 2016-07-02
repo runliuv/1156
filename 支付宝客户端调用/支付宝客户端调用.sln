@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "支付宝客户端调用", "支付宝客户端调用\支付宝客户端调用.csproj", "{0E75FEFD-78E5-4ACA-8539-0F01ED4DCB37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E75FEFD-78E5-4ACA-8539-0F01ED4DCB37}.Debug|x86.ActiveCfg = Debug|x86
+		{0E75FEFD-78E5-4ACA-8539-0F01ED4DCB37}.Debug|x86.Build.0 = Debug|x86
+		{0E75FEFD-78E5-4ACA-8539-0F01ED4DCB37}.Release|x86.ActiveCfg = Release|x86
+		{0E75FEFD-78E5-4ACA-8539-0F01ED4DCB37}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

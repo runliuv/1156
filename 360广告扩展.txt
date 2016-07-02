@@ -1,0 +1,10 @@
+[360 AdBlock Rule]
+title=360π„∏Ê¿©’π
+updated_time=2015.09.18
+author=runliuv
+version=1.0.0.1001
+
+[Subscription filters]
+mydrivers.com##div[id="taobao_add"]
+mydrivers.com##div[class="ad_warp side_ad_top"]
+
